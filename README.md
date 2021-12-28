@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently pursuing Masters in Computer Science from Rochester Institute of Technology <a href="https://www.rit.edu/" target="_blank"> <img src="https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/inline-images/new_RIT_logo1_RGB_0.png" alt="RIT" width="18" height="10"/> </a>
-- 🌱 I’m currently learning Kubernetes and a bit of Psychology
+- 🌱 I’m currently diving deep into Algorithms and a bit of Psychology
 - 💬 Ask me about Python, Databases, Backend Development
 - 📫 How to reach me: <a href="mailto:shubham.dalvi97@gmail.com">shubham.dalvi97@gmail.com</a>
 

@@ -55,4 +55,4 @@
 <a href="https://hackerrank.com/saintlyzero"><img src="https://img.shields.io/badge/-@saintlyzero-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saintlyzero&theme=dracula)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saintlyzero&theme=dracula)](https://git.io/streak-stats) -->
